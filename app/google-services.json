@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257594707649",
+    "firebase_url": "https://batikcapstone-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "batikcapstone",
+    "storage_bucket": "batikcapstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257594707649:android:2dc40cf0311ad7b1948e40",
+        "android_client_info": {
+          "package_name": "com.example.batikcapstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257594707649-heii2i9e95i6a4is2prt2efpr5ag3pft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUnEmHjMa9BZBdKU02MP3L7ed7jpy5xJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257594707649-heii2i9e95i6a4is2prt2efpr5ag3pft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

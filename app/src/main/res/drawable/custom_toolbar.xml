@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/secondary" /> <!-- Set the desired background color (transparent in this case) -->
+    <stroke
+        android:color="#451B20"
+        android:width="2dp"
+        />
+</shape>

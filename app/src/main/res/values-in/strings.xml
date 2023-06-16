@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dewangga - Batik pattern scanner</string>
+    <string name="action_settings">Pengaturan</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Lanjut</string>
+    <string name="previous">Kembali</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btc_next">Selanjutnya</string>
+    <string name="btc_finish">Mulai</string>
+    <string name="app_logo_desc">logo aplikasi</string>
+    <string name="back">Kembali</string>
+
+    <string name="title_onboarding_1">Selamat datang di Dewangga!</string>
+    <string name="description_onboarding_1">Membuka pengetahuan baru tentang batik dengan Perpustakaan Batik Dewangga</string>
+
+    <string name="title_onboarding_2">Cobalah Pengenalan Batik Kami</string>
+    <string name="description_onboarding_2">Abadikan setiap batik yang Anda lihat dan temukan informasi menarik tentangnya</string>
+
+    <string name="title_onboarding_3">Baca Artikel Menarik Tentang Batik</string>
+    <string name="description_onboarding_3">Ingin tahu apa saja fakta tentang batik? Baca berita kami untuk menemukan fakta menarik yang belum pernah Anda dengar</string>
+
+    <string name="start_text_advice">Dengan melanjutkan aplikasi ini, Anda menyetujui Ketentuan Penggunaan dan Kebijakan Privasi kami</string>
+
+    <string name="start">mulai</string>
+    <string name="skip">Lewati</string>
+    <string name="finish">Selesai</string>
+    <string name="blank"> </string>
+    <string name="menu_title_home">Halaman Utama</string>
+    <string name="menu_title_blank">" "</string>
+    <string name="menu_title_news">Berita</string>
+    <string name="news_title">news title</string>
+    <string name="news_description">news description</string>
+
+    <string name="about_desc"><![CDATA[
+    Halo, ini adalah Dewangga!<br>
+    <br>
+    Kami adalah platform bagi siapa saja yang tertarik dan ingin mengenal Batik. Aplikasi ini memberikan pengalaman belajar baru untuk mempelajari Batik hanya dengan menggunakan gambar. Tangkap gambar Batik yang Anda lihat dan dapatkan informasi seperti nama, deskripsi, asal, dan gambar lainnya segera setelah Anda mengambil gambar tersebut. Tidak hanya itu, Anda juga dapat membaca berita terkait Batik untuk meningkatkan pengetahuan Anda.<br>
+    <br>
+    Secara ringkas, aplikasi ini memiliki tiga fitur utama yang dapat Anda gunakan, yaitu:<br>
+    <b>1.Deteksi motif Batik</b><br>
+    <b>2.Berita terkait Batik</b><br>
+    <b>3.Informasi tentang berbagai jenis Batik</b><br>
+    <br>
+    Ini adalah langkah pertama kami; di masa depan, kami berencana untuk bekerja sama dengan UMKM yang fokus pada produksi dan distribusi Batik untuk mempromosikan Batik kepada masyarakat.
+    ]]></string>
+
+    <!-- FOR APP GUIDE -->
+    <string name="app_guide_one">news description</string>
+    <string name="app_guide_two">news description</string>
+    <string name="app_guide_three">news description</string>
+    <string name="about_us_title">Tentang kami</string>
+    <string name="about_us_subtitle">Apa yang kami lakukan, siapa kami, dan apa aplikasi ini</string>
+    <string name="default_back_button">tombol kembali</string>
+    <string name="detail_batik_name">jenis batik</string>
+    <string name="detail_batik_origin">asal batik</string>
+    <string name="default_description_title">Keterangan</string>
+    <string name="detail_batik_other_pattern_title">Pola Lain Dari Produk</string>
+    <string name="detail_news_name">judul berita</string>
+    <string name="detail_news_date_title">tanggal</string>
+    <string name="home_fragment_title">Bagaimana saya bisa membantu Anda dengan aplikasi ini?</string>
+    <string name="home_fragment_subtitle">Selamat datang, Dewangga</string>
+    <string name="default_home_recent_image">gambar terbaru diambil</string>
+    <string name="home_fragment_recent_title">Prediksi Disini</string>
+    <string name="home_fragment_recent_redirect">Lihat detailnya di sini...</string>
+    <string name="home_fragment_text_home">Tentang</string>
+    <string name="home_fragment_text_history">Riwayat</string>
+    <string name="home_fragment_text_guide">Panduan</string>
+    <string name="home_fragment_text_title_about">Berita Tentang Batik</string>
+    <string name="home_Fragment_news_text_subtitle">Berdasarkan website up to date</string>
+    <string name="home_fragment_batik_text_title">Daftar Batik</string>
+    <string name="home_fragment_batik_text_subtitle">Anda mungkin tahu beberapa di antaranya</string>
+    <string name="language_title">Pengaturan Bahasa</string>
+    <string name="language_english">Bahasa inggris</string>
+    <string name="language_indonesia">Bahasa Indonesia</string>
+    <string name="camera_alert_title">Kesalahan dalam pengenalan</string>
+    <string name="camera_alert_message">Batiknya tidak bisa dikenali.</string>
+    <string name="camera_alert_yes">Coba lagi</string>
+    <string name="camera_alert_no">Kembali</string>
+    <string name="guide_first">Selamat datang di Dewangga, Silahkan baca terlebih dahulu deskripsi tentang aplikasi ini agar anda mengetahui apa tujuan dari aplikasi ini.</string>
+    <string name="guide_second">Dewangga juga menyediakan berita-berita seputar Batik, Anda dapat mengakses “Berita” pada berita-berita yang kami tampilkan di bawah ini atau klik bilah navigasi di bawah untuk melihat daftar berita selengkapnya.</string>
+    <string name="guide_third">Jika suatu saat Anda lupa tentang cara kerja aplikasi, Anda selalu bisa mendapatkan tutorialnya lagi di sini.</string>
+    <string name="guide_fourth">Fitur utama kami adalah menggunakan kamera sehingga Anda dapat mengidentifikasi pola batik dengan mudah. Tetapi pertama-tama Anda harus mengizinkan kami mengakses kamera Anda agar aplikasi berfungsi.</string>
+    <string name="guide_fifth">Anda juga bisa melihat contoh aplikasi identifikasi pada batik pada kesempatan sebelumnya disini.</string>
+    <string name="guide_sixth">Jika Anda sudah mengetahui jenis batiknya, Anda selalu dapat menemukan pola jenis batik tersebut dengan mencari apa yang Anda cari di sini.</string>
+    <string name="guide_seventh">Anda juga dapat mengubah bahasa ke bahasa lain di sini.</string>
+    <string name="guide_last">Itu saja Anda siap untuk pergi, dapatkan pengalaman yang menyenangkan!</string>
+    <string name="guide_finish">saya mengerti</string>
+    <string name="query_home_fragment">Cari jenis batik disini...</string>
+    <string name="query_history_activity">Cari nama batik disini</string>
+    <string name="query_news_fragment">Cari judul berita disini...</string>
+    <string name="history_activity_dialog_nodata">Anda tidak memiliki data untuk dihapus</string>
+    <string name="history_activity_dialog_title">Konfirmasi</string>
+    <string name="history_activity_dialog_message">Apakah Anda yakin ingin menghapus data ini?</string>
+    <string name="history_activity_dialog_positive">Hapus</string>
+    <string name="history_activity_dialog_negative">Batal</string>
+
+
+</resources>

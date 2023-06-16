@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Dewangga - Batik pattern scanner</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="btc_next">next</string>
+    <string name="btc_finish">finish</string>
+    <string name="app_logo_desc">app logo</string>
+    <string name="back">Back</string>
+
+    <string name="title_onboarding_1">Welcome to Dewangga !</string>
+    <string name="description_onboarding_1">Unlocked new knowledge about batik with Dewangga Batik Library</string>
+
+    <string name="title_onboarding_2">Try Our Batik Recognition</string>
+    <string name="description_onboarding_2">Capture any batik you see and found interesting information about it</string>
+
+    <string name="title_onboarding_3">Read Interesting Article About Batik</string>
+    <string name="description_onboarding_3">Want to know any fact about batik? Read our news to find interesting fact you never heard</string>
+
+    <string name="start_text_advice">By continuing on this application you agree to our Terms of Use and Privacy Policy</string>
+
+    <string name="start">start</string>
+    <string name="skip">Skip</string>
+    <string name="finish">finish</string>
+    <string name="blank"> </string>
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_blank">" "</string>
+    <string name="menu_title_news">News</string>
+    <string name="news_title">news title</string>
+    <string name="news_description">news description</string>
+
+    <string name="about_desc"><![CDATA[
+    Hello, this is Dewangga! <br><br>
+    We are a platform for everyone interested and want to get to know Batik. This application would give you a new learning experience to learn Batik just by image. Capture the image of the Batik you see and get the information such as its name, description, origin, and another picture of it as soon as you capture the image. Not just that, you could also read news related to Batik to enhance your knowledge. <br><br>
+    In summary, this application has three main features for you to use, which are : <br><br>
+    <b>1. Batik motif detection</b><br>
+    <b>2. News related to Batik</b><br>
+    <b>3. Different batik types of information</b><br><br>
+    This is our first step; in the future, we plan to collaborate with UMKM, which focuses on batik production and distribution to promote Batik into society.
+    ]]></string>
+
+    <!-- FOR APP GUIDE -->
+    <string name="app_guide_one">news description</string>
+    <string name="app_guide_two">news description</string>
+    <string name="app_guide_three">news description</string>
+    <string name="about_us_title">About Us</string>
+    <string name="about_us_subtitle">What we do, who we are, and what is this app</string>
+    <string name="default_back_button">back button</string>
+    <string name="default_textview" translatable="false">TextView</string>
+    <string name="detail_batik_name">kind of batik</string>
+    <string name="detail_batik_origin">origin of batik</string>
+    <string name="default_description_title">Description</string>
+    <string name="detail_batik_other_pattern_title">Another Pattern From Product</string>
+    <string name="detail_news_name">news title</string>
+    <string name="detail_news_date_title">date</string>
+    <string name="home_fragment_title">How can i help you with this app?</string>
+    <string name="home_fragment_subtitle">Welcome, Dewangga</string>
+    <string name="default_home_recent_image">recent image taken</string>
+    <string name="home_fragment_recent_title">Prediction Here</string>
+    <string name="home_fragment_recent_redirect">See details here...</string>
+    <string name="home_fragment_button_image" translatable="false">camera button</string>
+    <string name="home_fragment_button_about" translatable="false">about button</string>
+    <string name="home_fragment_text_home">About</string>
+    <string name="home_fragment_image_history" translatable="false">history button</string>
+    <string name="home_fragment_text_history">History</string>
+    <string name="home_fragment_button_guide" translatable="false">guide button</string>
+    <string name="home_fragment_text_guide">App Guide</string>
+    <string name="home_fragment_text_title_about">News About Batik</string>
+    <string name="home_Fragment_news_text_subtitle">Based on website up to date</string>
+    <string name="home_fragment_batik_text_title">List of Batik</string>
+    <string name="home_fragment_batik_text_subtitle">You might know some of this</string>
+    <string name="language_title">Language Settings</string>
+    <string name="language_english">English</string>
+    <string name="language_indonesia">Indonesia</string>
+    <string name="camera_alert_title">Recognition Error</string>
+    <string name="camera_alert_message">The batik could not be recognized.</string>
+    <string name="camera_alert_yes">Try Again</string>
+    <string name="camera_alert_no">Back</string>
+
+    <string name="guide_first">Welcome to Dewangga, Please read the description about this application first so you know what the purpose of this apps.</string>
+    <string name="guide_second">Dewangga also provide news about Batik, You can access “News” in the news that we show below or click on navigation bar below to see full list of the news.</string>
+    <string name="guide_third">If you someday forgot about how the apps works, you can always got the tutorial again here.</string>
+    <string name="guide_fourth">Our main feature is using camera so you can identify batik pattern easily. But first you need to allow us to access your camera in order for apps to works.</string>
+    <string name="guide_fifth">You can also see the example of apps identification on batik in previous occasion here.</string>
+    <string name="guide_sixth">If you already know the type of batik, you can always find the pattern of batik type by searching what you looking for here. </string>
+    <string name="guide_seventh">You can also change the language to other language here.</string>
+    <string name="guide_last">Thats it you ready to go, have a nice expeience!</string>
+    <string name="guide_finish">I understand</string>
+    <string name="query_home_fragment">Find the type of batik here...</string>
+    <string name="query_history_activity">Find the name of batik here</string>
+    <string name="query_news_fragment">Find news headlines here...</string>
+    <string name="history_activity_dialog_nodata">You don\'t have data to delete</string>
+    <string name="history_activity_dialog_title">Confirmation</string>
+    <string name="history_activity_dialog_message">Are you sure you want to delete this data?</string>
+    <string name="history_activity_dialog_positive">Delete</string>
+    <string name="history_activity_dialog_negative">Cancel</string>
+</resources>
