@@ -23,7 +23,8 @@ In Dewangga, we have 3 main features
 <!-- * [License](#license) -->
 This project using TFLite to connect machine learning model and android and since the TFLite size is more than 100mb, so we separate the TFLite model.
 You can download the TFLite model [here](https://drive.google.com/drive/folders/1dhcaQDhJjIlK9MZDESjd_nKCh4yGaRqq?usp=drive_link)
-After download tflite model, save it in src folder
+After download tflite model, save it in BatikCapstone/app/src/main/assets/ folder to connect the TFlite model with application.
+You don't need to add dependency because it's already added.
 
 ## Ready APK
 If you want to download the APK you can access through this [link](https://drive.google.com/drive/folders/19Km_3pPvakEHUPbEy1oOPKqzZH3u-Yrb?usp=drive_link)
